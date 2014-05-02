@@ -4,6 +4,12 @@ This extension changes the YouTrack page title so the PIC number shows before th
 
 Loading the Extension
 =====================
-1. Go to Window -> Extensions
+1. [Download the packed extension](https://github.com/RyanFarley/YouTrackTitleChanger/raw/master/packed/YouTrackTitleChanger.crx)
+2. Go to Extensions
+3. Make sure "Developer mode" is checked in the top right
+4. Drag the YouTrackTitleChanger.crx onto the extension page
+
+OR
+1. Go to Extensions
 2. Make sure "Developer mode" is checked in the top right
 3. Click "Load unpacked extensions" and select the folder containing this README
