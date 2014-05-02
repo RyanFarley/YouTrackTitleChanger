@@ -1,0 +1,13 @@
+{
+  "name": "YouTrack Title Replacer",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "This extension changes the YouTrack page title so the PIC number shows before the PIC title. This allows you to see the PIC number in the browser tab title even if the tab is not selected.",
+  "content_scripts": [
+    {
+      "matches": ["http://*.myjetbrains.com/youtrack/issue/*"],
+      "js": ["title_replace.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
