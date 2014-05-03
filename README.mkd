@@ -2,11 +2,11 @@ About This Extension
 ====================
 This extension changes the YouTrack page title so the PIC number shows before the PIC title. This allows you to see the PIC number in the browser tab title even if the tab is not selected.
 
-YouTrack Title Before
+##### YouTrack Title Before
 
 ![Before](http://content.screencast.com/users/RyanFarley/folders/Default/media/c9291c52-3a15-40b1-af1b-6290d845406d/ExtensionBefore.png "Before")
 
-YouTrack Title After
+##### YouTrack Title After
 
 ![After](http://content.screencast.com/users/RyanFarley/folders/Default/media/3ce32c97-0825-4402-8832-a2039adac371/ExtensionAfter.png "After")
 
