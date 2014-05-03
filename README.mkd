@@ -10,7 +10,7 @@ YouTrack Title After
 
 ![After](http://content.screencast.com/users/RyanFarley/folders/Default/media/3ce32c97-0825-4402-8832-a2039adac371/ExtensionAfter.png "After")
 
-Loading the Extension
+Installing the Extension
 =====================
 1. [Download the packed extension](https://github.com/RyanFarley/YouTrackTitleChanger/raw/master/packed/YouTrackTitleChanger.crx)
 2. Go to Extensions
