@@ -3,6 +3,11 @@
   "version": "1.0",
   "manifest_version": 2,
   "description": "This extension changes the YouTrack page title so the PIC number shows before the PIC title. This allows you to see the PIC number in the browser tab title even if the tab is not selected.",
+  "icons": {
+      "16": "icons/youtrack16.png",
+      "48": "icons/youtrack48.png",
+      "128": "icons/youtrack128.png"
+  },
   "content_scripts": [
     {
       "matches": ["http://*.myjetbrains.com/youtrack/issue/*"],
