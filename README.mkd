@@ -1,6 +1,6 @@
 About This Extension
 ====================
-This extension changes the YouTrack page title so the PIC number shows before the PIC title. This allows you to see the PIC number in the browser tab title even if the tab is not selected. _Note: this extension only runs when the current URL matches http://*.myjetbrains.com/youtrack/issue/*_
+This extension changes the YouTrack page title so the PIC number shows before the PIC title. This allows you to see the PIC number in the browser tab title even if the tab is not selected. _Note: this extension only runs when the current URL matches http://[APPNAME].myjetbrains.com/youtrack/issue/[PIC-NUM]_
 
 ##### YouTrack Title Before
 
